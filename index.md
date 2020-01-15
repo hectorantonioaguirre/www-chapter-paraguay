@@ -15,6 +15,8 @@ auto-migrated: 1
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Bienvenidos todos a participar del capítulo Paraguay.
+Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores como también fomentar eventos de capacitación de seguridad en el Paraguay. 
 
 {front matter for this file}
 
@@ -29,7 +31,8 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+Bienvenidos todos a participar del capítulo Paraguay.
+Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores como también fomentar eventos de capacitación de seguridad en el Paraguay. 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
