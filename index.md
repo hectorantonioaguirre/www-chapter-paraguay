@@ -50,5 +50,17 @@ This separate file is where you should place links to your Google Group and Meet
 {leaders.md}
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+El Capitulo OWASP Paraguay comenzó en el año 2012; nuestro objetivo fue la de difundir el desarrollo Seguro de Aplicaciones y fomentar la Seguridad en Aplicaciones. 
 
+El fundador del capítulo en Paraguay es Héctor Aguirre.
+
+El Capítulo Paraguay cuenta con varios colaboradores que realizan la coordinación del Capítulo para la coordinación de los eventos y talleres que se realizan en el país.
+
+OWASP Paraguay realiza charlas para concientizar sobre la importancia de implementar la Seguridad a Organizaciones, Empresas, Universidades, Estudiantes, Desarrolladores y Profesionales en Seguridad mediante eventos de capacitación y de charlas.
+
+Datos sobre OWASP Paraguay:
+    Todos los miembros son voluntarios
+
+¿Cómo puedes participar?
+Suscribiendote al capítulo en forma personal sin costo.
 -->
